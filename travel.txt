@@ -2,3 +2,9 @@ packing list --
 --------------------
 - bags
 - shoes 
+
+picnic--
+----------
+- wings
+- beer
+- pop
