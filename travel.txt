@@ -8,3 +8,4 @@ picnic--
 - wings
 - beer
 - pop
+- camera
